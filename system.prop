@@ -1,5 +1,5 @@
 # Device release name
-ro.display.series=Samsung Galaxy A13
+ro.display.series=Samsung Galaxy A41
 
 # Dynamic partition
 ro.boot.dynamic_partitions=true
