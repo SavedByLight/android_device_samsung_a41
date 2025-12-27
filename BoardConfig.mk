@@ -160,5 +160,8 @@ TWRP_EVENT_LOGGING := true
 TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_USE_NEW_MINADBD := true
 
+# Making the recovery.img smaller
+BOARD_HAS_NO_REAL_SDCARD := true
+
 # Version
 TW_DEVICE_VERSION := SavedByLight
